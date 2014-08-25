@@ -75,7 +75,7 @@ does include loads of cool pictures :-), can be found
 at [bit-tech](http://forums.bit-tech.net/showthread.php?t=234218).
  
 
-##TearDrop App
+##About the App
 
 __TearDrop App__ is the front-end interface for communicating with TearDrop's 
 [Pump Controller](https://github.com/nadavmatalon/TearDrop_Pump_Controller) 
