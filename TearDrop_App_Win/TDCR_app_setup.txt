@@ -1,0 +1,18 @@
+
+Application Setup:
+
+1. export to application 
+
+2. change name to TDCR_[version]
+
+3. edit bat file to:
+
+@echo off 
+java\bin\javaw.exe arg0 arg1 
+start java\bin\javaw.exe -Djava.ext.dirs=lib -Djava.library.path=lib TDCR_[version]
+
+4. copy application folder to C:\Program Files
+
+5. create shortcut to desktop
+
+6. update Windows Schedualler to new location
