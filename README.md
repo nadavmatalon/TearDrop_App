@@ -69,7 +69,17 @@ The source code can accessed directly by clicking this link:
 Note that in order to run the code in [Processing 2.0 IDE](http://processing.org/), 
 the `data` sub-folder must be included.
 
- 
+Due to size limitation it was not possible to include the standalone version of the app
+in this repo. However, if you would like to create it yourself, follow these simple steps:
+
+* Copy the source code file (*.pde) of either the __Windows 7__ or __Mac OS X__ version 
+  for the app into a local folder.
+* Copy the data sub-folder and place it inside the local folder.
+* Open the source code in the [Processing 2.0 IDE](http://processing.org/)
+* Click on `file>Export Application` and choose the relevant platform.
+* A new sub-folder should be creatd inside your local folder containing the standalone app.
+
+
 ##  License
 
 <p>Released under the <a href="http://www.opensource.org/licenses/MIT">MIT license</a>.</p>
