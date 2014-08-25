@@ -62,9 +62,9 @@ This repo contains the source code for the __Windows 7__ version of the app
 
 The source code can accessed directly by clicking this link:
 
-* [TearDrop App (Windows 7)](TearDrop_App_Win/TearDrop_App_Win.pde)
+* [TearDrop App (Windows 7)](TearDrop_App_Win/TearDrop_App/TearDrop_App_Win.pde)
 
-* [TearDrop App (Mac OS X)](TearDrop_App_Win/TearDrop_App_Mac.pde)
+* [TearDrop App (Mac OS X)](TearDrop_App_Mac/TearDrop_App_Mac.pde)
 
 Note that in order to run the code in [Processing 2.0 IDE](http://processing.org/), 
 the `data` sub-folder must be included.
