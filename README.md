@@ -52,8 +52,8 @@
 ##General Description
  
 __TearDrop App__ is the front-end interface for communicating with TearDrop's 
-[Pump Controller](TearDrop_App_Win/TearDrop_App/TearDrop_App.pde) 
-and [Fan Controller](TearDrop_App_Mac/TearDrop_App_Mac.pde).
+[Pump Controller](https://github.com/nadavmatalon/TearDrop_Pump_Controller) 
+and [Fan Controller](https://github.com/nadavmatalon/TearDrop_Fan_Controller).
 
 It was written with [Processing 2.0](http://processing.org/)
 
