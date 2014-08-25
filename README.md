@@ -55,13 +55,14 @@
 __TearDrop__ is a custom, open-frame, water-cooled scratch build I’ve been working on 
 in my spare time for the past three years.
  
-The driving force behind this project is to design, prototype & create everything for 
-a fully functional computer that will be powerful, aesthetically pleasing, and 
-most importantly, completely unique.
+The main driving force behind this project is to design, prototype & create everything for 
+a rig that is powerful and aesthetically pleasing, but most importantly, completely of 
+my own making from inception to final product.
  
-In this process, I’ve learned how to program micro-controllers, design, prototype & 
-build electronic circuit boards, make CNC cutting templates, creare front-end applications,
-and lots more.
+The underlying motivation for this project, however, was the endless learning oportunities
+it presented. So far, I’ve learned to program micro-controllers, design, prototype & 
+build electronic circuit boards, make CNC cutting templates, interface with various kinds
+of hardware, write front-end applications, and lots more.
 
 This project also helped me to become proficient in multiple software tools, including: 
 [Google Sketchup](http://www.sketchup.com/), 
@@ -71,7 +72,7 @@ and [Inkscape](http://www.inkscape.org/en/).
  
 The __project-log__ of this build (which I haven't had time to update recently, but 
 does include loads of cool pictures :-), can be found 
-on [bit-tech](http://forums.bit-tech.net/showthread.php?t=234218).
+at [bit-tech](http://forums.bit-tech.net/showthread.php?t=234218).
  
 
 ##TearDrop App
