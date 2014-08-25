@@ -4,7 +4,7 @@
 
 * [Screenshots](#screenshots)
 * [About the Project](#about-the-project)
-* [TearDrop App](#teardrop-app)
+* [About the App](#about-the-app)
 * [License](#license)
 
 
