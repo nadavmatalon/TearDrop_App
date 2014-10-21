@@ -55,7 +55,7 @@
 __TearDrop__ is a custom, open-frame, water-cooled scratch build I’ve been 
 working on as part of the SnowCrash initiative.
 
-The SnowCrash initiative aims at designing and building end-to-end customized 
+The __SnowCrash__ initiative aims at designing and building end-to-end customized 
 personal computers, addressing unique functional requirements – from developing 
 the software control applications, to hardware configuration and case modding. 
 As part of the initiative's research phase, the TearDrop customized computer 
